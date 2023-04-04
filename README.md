@@ -6,4 +6,7 @@ Wordle written in MATLAB, based off the official Wordle game by The New York Tim
 
 ## Quick-Start
 
-...
+1. Install MATLAB
+2. Open Wordle.m file in MATLAB
+3. Run Wordle.m
+4. Play the game!
